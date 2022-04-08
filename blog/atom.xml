@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://googoramap.github.io/pages/blog</id>
+    <title>GoogoraMap Blog</title>
+    <updated>2022-04-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://googoramap.github.io/pages/blog"/>
+    <subtitle>GoogoraMap Blog</subtitle>
+    <icon>https://googoramap.github.io/pages/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[テスト]]></title>
+        <id>article-2022-04-08</id>
+        <link href="https://googoramap.github.io/pages/blog/article-2022-04-08"/>
+        <updated>2022-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブログのテスト]]></summary>
+        <content type="html"><![CDATA[<p>ブログのテスト</p>]]></content>
+        <author>
+            <name>GoogoraMap</name>
+        </author>
+        <category label="googoramap" term="googoramap"/>
+    </entry>
+</feed>
